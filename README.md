@@ -3,6 +3,7 @@
 ## Project overview
 This data analysis project aims to provide insight into the trainees rate of sucbscrption and unsubscrption from different countries. By analysing this data we seek to identify trends, correlations, make data-driven decisions and recommendations and gain a deeper understanding of the country(s) that is greatly subscibing to the training and with and which country has the least subscriptions and what could be the factors leading to that. This is to help us to be able to make clear decions and set possible data driven decisions on how we can increase and maintain our subscribers.
 
+
 ### Data Source
 Subscription data: The primary dataset used for this analysis is the "trainess_data.cvs" file, containing deatailed information about country's subscription to the training.
 
