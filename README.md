@@ -10,6 +10,7 @@ Subscription data: The primary dataset used for this analysis is the "trainess_d
 ### Tools Used
 -Excel - Data cleaning, Data analysis and visualization [Downlaod_here](https://microsoft.com)
 
+
 ### Data Cleaning/ Preparation
 
 In the initial data preparation phase, the following tasks were prformed:
@@ -58,6 +59,9 @@ I also had to remove the outliers since they would affect the accurancy of my re
 [w3schools](https://www.w3schools.com/excel/excel_charts_radar.php)
 
 
+
+
+![WhatsApp Image 2024-03-26 at 7 47 53 AM](https://github.com/Malcus18/TRAINEE-S-SUBSCRIPTIONS/assets/157021572/fd05f2f2-d197-43cf-ac00-47e227e3b3b8)
 
 
 
