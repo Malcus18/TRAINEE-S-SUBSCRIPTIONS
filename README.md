@@ -61,8 +61,6 @@ I also had to remove the outliers since they would affect the accurancy of my re
 
 
 
-![WhatsApp Image 2024-03-26 at 7 47 53 AM](https://github.com/Malcus18/TRAINEE-S-SUBSCRIPTIONS/assets/157021572/fd05f2f2-d197-43cf-ac00-47e227e3b3b8)
-
 
 
 
