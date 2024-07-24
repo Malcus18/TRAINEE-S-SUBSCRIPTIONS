@@ -36,8 +36,9 @@ Power Query to remove wild characters
 Sorting and formating
 Changing from text to numerical
 ```
-
-###RESULTS AND FINDING
+### VISUALIZATION
+![CXXXXX](https://github.com/user-attachments/assets/609454c9-df38-4279-8953-18df8b260fb2)
+### RESULTS AND FINDING
 The analysis results are sumarised as follows:
  
 1. France has the highest number of active memebers to the training  with a total number of 47627 active members while Geramany has the least number of active subscribers to the training.
@@ -57,6 +58,9 @@ I also had to remove the outliers since they would affect the accurancy of my re
 
 ### Reference
 [w3schools](https://www.w3schools.com/excel/excel_charts_radar.php)
+
+[Kaggle](https://www.kaggle.com)
+
 
 
 
